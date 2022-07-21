@@ -1,5 +1,4 @@
-##Thayllan Vivas!
-##Hello, Devs!
+Hello, Devs!
 
 Tenho 23 anos, moro em Feira de Santana/BA. 
 Eu possuo um caminho longo como Jr Developer Full Stack utilizando principalmente JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
