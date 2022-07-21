@@ -1,16 +1,17 @@
-### Hi there 👋
+##Thayllan Vivas!
+##Hello, Devs!
 
-<!--
-**ThayllanVivas/ThayllanVivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 23 anos, moro em Feira de Santana/BA. 
+Eu possuo um caminho longo como Jr Developer Full Stack utilizando principalmente JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
 
-Here are some ideas to get you started:
+No meu perfil é possível encontrar alguns dos meus principais projetos que receberam um #pinned; Sintam-se livre para solicitar pull request sobre eles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você também me contra no linkedin usando https://www.linkedin.com/in/thayllanvivas/
+
+See ya!
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
