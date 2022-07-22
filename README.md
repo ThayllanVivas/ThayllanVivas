@@ -4,7 +4,7 @@ Tenho 23 anos, moro em Feira de Santana/BA.
 Sou formado desde 2020 na área de tecnologia. 
 Possuo um caminho longo como Jr Developer Full Stack utilizando JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
 
-No meu perfil é possível encontrar alguns dos meus principais projetos que receberam um #pinned; Sintam-se livre para solicitar pull request sobre eles.
+No meu perfil é possível encontrar alguns dos meus principais projetos que receberam um #pinned; Sintam-se livre para solicitar pull request deles.
 
 O meu projeto mais recente foi um web system de controle de tarefa empresarial constrúido com JavaScript, Node, Express, e Next para uma empresa do ramo de seguros.
 Cadastro, login, validaçao de senha com bcrypt, comparar com o hash no banco de dados entre outras funções estão presentes nesse projeto.
