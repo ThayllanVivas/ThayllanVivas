@@ -10,7 +10,7 @@ Cadastro, login, validaçao de senha com bcrypt, comparar com o hash no banco de
 As tarefas são mostradas no total, a depender se o usuário é administrador ou user normal, ou através dos filtros de pesquisa que o usuário pode fazer;
 
 Você também me encontra no linkedin usando https://www.linkedin.com/in/thayllanvivas/
-Ou por email: thayllanvivas@hotmail.com
+ou por email: thayllanvivas@hotmail.com
 
 See ya!
 
