@@ -1,7 +1,7 @@
 Hello, Devs!
 
 Sou formado desde 2020 na área de tecnologia. 
-Possuo um caminho longo como Jr Developer Full Stack utilizando JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
+Possuo uma trajetória longa como Jr Developer Full Stack utilizando JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
 
 No meu perfil é possível encontrar alguns dos meus principais projetos que receberam um #pinned; Sintam-se livres para solicitar pull request deles.
 
