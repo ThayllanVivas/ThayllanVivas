@@ -1,7 +1,7 @@
 Hello, Devs!
 
 Sou formado na área de tecnologia em Sistemas para Internet. 
-Possuo uma trajetória como Developer Full Stack autonomo utilizando JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
+Possuo uma trajetória como Full Stack autonomo utilizando JavaScript, Node, Next, React além de Express, HTML, CSS, SASS e outras tecnologias semelhantes.
 
 No meu perfil é possível encontrar alguns dos meus principais projetos que receberam um #pinned; Sintam-se livres para solicitar pull request deles.
 
